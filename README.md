@@ -1,6 +1,6 @@
-# Teclado Mecánico Virtual
+# Klack
 
-Teclado Mecánico Virtual es una aplicación desarrollada en Python que simula los sonidos de un teclado mecánico cuando se presionan las teclas en tu computadora. La aplicación permite a los usuarios elegir entre diferentes tipos de sonidos de teclas, ajustar el volumen y asegura que todos los sonidos se reproduzcan sin interrupciones, incluso cuando las teclas se presionan rápidamente.
+Klack es una aplicación desarrollada en Python que simula los sonidos de un teclado mecánico cuando se presionan las teclas en tu computadora. La aplicación permite a los usuarios elegir entre diferentes tipos de sonidos de teclas, ajustar el volumen y asegura que todos los sonidos se reproduzcan sin interrupciones, incluso cuando las teclas se presionan rápidamente.
 
 ## Características
 

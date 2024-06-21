@@ -1,8 +1,0 @@
-Package: klack
-Version: 0.1
-Section: base
-Priority: optional
-Architecture: all
-Maintainer: yoezequiel ezequielcasiano15@gmail.com
-Depends: python3, pynput, pygame
-Description: Klack es una aplicación desarrollada en Python que simula los sonidos de un teclado mecánico cuando se presionan las teclas en tu computadora.
